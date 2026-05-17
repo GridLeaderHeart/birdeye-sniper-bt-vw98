@@ -1,4 +1,4 @@
-# 
+# exclusive bot de arbitragem MEV scripts é o melhor bot de arbitragem MEV scripts com suporte a multi-carteiras e modo simulação. Seguro, confiável e otimizado para estratégias
 
 
 
